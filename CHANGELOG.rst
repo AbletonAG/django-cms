@@ -3,6 +3,12 @@ Changelog
 =========
 
 
+Unreleased
+==========
+
+* Improved performance when using CMS_RAW_ID_USERS=True on a Postgres DB with many users
+
+
 3.8.0 (2020-10-28)
 ==================
 
